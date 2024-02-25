@@ -1,3 +1,5 @@
+![Screenshot 2024-02-25 at 15-04-48 React Resume cv](https://github.com/august-dev-pro/react-rigth-resume-cv/assets/143771382/c20b57e8-53f6-4683-9faa-ffc5bb3121d4)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
